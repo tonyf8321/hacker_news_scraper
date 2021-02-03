@@ -103,7 +103,7 @@ I am strongly against setting it to anything greater than 6 due to the slight ch
 ## Likes on Post
 This section explains how to set the amount of likes a story must have in order to make it the final result when displaying the stories onto the screen.
 
-In the create_custom_hn function):
+In the create_custom_hn function:
 
 ```sh
 def create_custom_hn(links, subtext):
