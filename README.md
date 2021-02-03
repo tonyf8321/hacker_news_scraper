@@ -114,7 +114,7 @@ def create_custom_hn(links, subtext):
 
 Change the pts_bigger_than = **99** value to the desired amount of likes the post must be greater than.
 
-For example if I set pts_bigger_than = 399
+For example, if I set pts_bigger_than = 399
 then post **greater but NOT equal to 399** would be displayed.
 
 # Why
