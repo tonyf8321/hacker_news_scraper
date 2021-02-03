@@ -108,7 +108,8 @@ In the create_custom_hn function):
 ```sh
 def create_custom_hn(links, subtext):
     hn = []
-    pts_bigger_than = **99**
+    pts_bigger_than = 99
+    ...
 ```
 
 Change the pts_bigger_than = **99** value to the desired amount of likes the post must be greater than.
