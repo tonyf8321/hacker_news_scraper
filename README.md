@@ -85,9 +85,26 @@ Now you can easily have the top stories without opening up a browser, typing in 
 
 # Modifications
 
-### Amount of Pages
+## Amount of Pages
+This section explains how to set the amount of pages the program will sift through to get the top stories from the program.
 
-In
+In the main function:
+
+```sh
+def main():
+    pprint.pprint(get_hacker_news(4))
+```
+
+You can change the *get_hacker_news(***4***)* arguement of ***4*** to be a number in the range of 1 to 18.
+
+**IMPORTANT:**
+I am strongly against setting it to anything greater than 6 due to the slight chance that it may cause a web server to lag so if you know about the time module please utilize it in order to stay in accordance to using this program ethically.
+
+## Likes on Post
+This section explains how to set the amount of likes a story must have in order to make it the final result when displaying the stories onto the screen.
+
+
+
 
 # Why
 
