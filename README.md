@@ -118,4 +118,4 @@ For example if I set pts_bigger_than = 399
 then post **greater but NOT equal to 399** would be displayed.
 
 # Why
-
+Simply because when I want to browse the news and find only the best stories, I have to open a browser, type in the news site, and then go through many stories to get to the best ones. With this program, it allows me to, with one command, find the top stories within seconds. This saves an incredible amount of time and will no doubt save other a lot of time, too.
